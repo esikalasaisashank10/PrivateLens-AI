@@ -177,13 +177,3 @@ The prototype can be extended with:
 
 > **Useful AI for everyday studying while keeping user content private, local, and under the user's control.**
 
-## 🖥️ Screenshots
-
-### Main Interface
-![PrivateLens AI Interface](screenshots/app.png)
-
-### AI Study Content
-![Generated Study Content](screenshots/summary.png)
-
-### Quiz / Exam Questions
-![Quiz and Exam Questions](screenshots/quiz.png)
